@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Punto
+comment1.params=x1\ x2\ y1\ y2
+comment1.target=double\ pendiente(double,\ double,\ double,\ double)
+numComments=2

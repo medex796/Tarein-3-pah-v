@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Matematico
+comment1.params=hip\ cat
+comment1.target=double\ triangulo(double,\ double)
+comment2.params=a\ b\ c
+comment2.target=java.lang.String\ ecuacion(double,\ double,\ double)
+comment3.params=x1\ x2\ y1\ y2
+comment3.target=double\ ecuaRecta(double,\ double,\ double,\ double)
+numComments=4
